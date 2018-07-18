@@ -1,1 +1,1 @@
-[スライド](https://gitpitch.com/egapool/slide?p=blockchain-kyoto-20180719)
+[スライド:https://gitpitch.com/egapool/slide?p=blockchain-kyoto-20180719](https://gitpitch.com/egapool/slide?p=blockchain-kyoto-20180719)
