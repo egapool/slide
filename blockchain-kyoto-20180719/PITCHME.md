@@ -18,7 +18,22 @@ Lappsとは
 * LightningNetwork(LN)のノードをバックエンドに持つアプリケーション
 * LNをプラットフォームとして動いているわけではない
 * LNの持つ即時・少額な決済性能を利用している
-	* 0.00..1円の決済がそれ以下の手数料および1秒〜で決済完了する
+	* 0.00..1円の決済がそれ以下の手数料および1秒〜で完了する
+
+---
+
+Lightning Networkとは
+
+![20171221010](https://user-images.githubusercontent.com/5069833/42937062-eb7cc592-8b88-11e8-97ae-4fac8239d118.jpg)
+
+---
+
+Lightning Networkとは
+
+* bitcoinのスケール問題を解決する技術
+* 「2ndレイヤー」「オフチェーン」などと呼ばれている
+	* bitcoinチェーンに対しての。
+* チェーンから飛び出て取引を複数回行い、結果だけをまたチェーンに帰着させる
 
 ---
 
@@ -26,12 +41,19 @@ Lappsとは
 
 ---
 
+htlc.me
+
+* [HTLC\.me Lightning Network Custodial Wallet](https://htlc.me/)
+* webウォレット
+* testnet
+
+---
+
 Y’alls
 
 * [Y'alls: Lightning Network powered publishing\.](https://yalls.org/)
 * note.muのLN版
-* $0.01の支払い
-* 
+* $0.01規模の支払い
 
 ---
 
@@ -58,16 +80,14 @@ hammercoin
 
 ---
 
-htlc.me
-
-* [HTLC\.me Lightning Network Custodial Wallet](https://htlc.me/)
-* webウォレット
-* testnet
-
----
-
 satoshi's place
 
 * [Satoshi's Place](https://satoshis.place/)
 * [Satoshi's Place testnet版](https://testnet.satoshis.place/)
 * 1px = 1satoshiでお絵かきできる
+
+---
+
+### ありがとうございました
+
+何かLNを使ったアイデア思いつきましたでしょうか？
