@@ -1,6 +1,7 @@
 Lappsの紹介
 
-@blockchainkyoto
+\#blockchainkyoto
+2018-07-19
 
 ---
 
